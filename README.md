@@ -1,4 +1,5 @@
 # Cozy Selfbot
+#https://www.youtube.com/watch?v=JnrD1jtyO80
 
 ## Important Notice
 This code is being publicly released by me (lapy/lappy) due to unauthorized reselling attempts by other individuals. Instead of allowing others to profit from this code, I've decided to make it freely available to everyone.
